@@ -1,6 +1,6 @@
 Hello, I'm Yunfan Zhang,a master of science in business analytics candidate in the [Wisconsin School of Business](https://business.wisc.edu/?gclid=CjwKCAjwxOCRBhA8EiwA0X8hixKiBaBCiZH7qthSOX7NppOQQKbRlR63XC6z51HtbM5JmQYbTac_kxoCms4QAvD_BwE). 
 
-Previously, I received my [Artificial Intelligence Professional Certificate](https://online.stanford.edu/programs/artificial-intelligence-professional-program) from Stanford School of Engineering online. And I earned my I received my Bachelor's degree from South China University of Technology, majoring in Finace with a double major of Computer Science. I have also spent time working at [CICC](https://en.cicc.com/), [Frost& Sullivan](https://www.frost.com/) and [r2games](https://www.r2games.com/).
+Previously, I received my [Artificial Intelligence Professional Certificate](https://online.stanford.edu/programs/artificial-intelligence-professional-program) from Stanford School of Engineering online. And I earned my Bachelor's degree from South China University of Technology, majoring in Finace with a double major of Computer Science. I have also spent time working at [CICC](https://en.cicc.com/), [Frost& Sullivan](https://www.frost.com/) and [r2games](https://www.r2games.com/).
 
 ## Internship
 
