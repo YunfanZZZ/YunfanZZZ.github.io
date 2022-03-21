@@ -17,6 +17,9 @@ Previously, I received my [artificial intelligence professional certificate](htt
 08/19-11/19: Worked for [Tax Bureau](http://www.chinatax.gov.cn/eng/home.html) as a data analyst intern
 
 ### Project
+## Econ and Finance related
+
+## Computer Science related
 
 ```markdown
 Syntax highlighted code block
