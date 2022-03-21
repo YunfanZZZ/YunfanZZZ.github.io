@@ -1,5 +1,6 @@
-You can use the [editor on GitHub](https://github.com/YunfanZZZ/YunfanZZZ.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-Hello, I'm a master of science in business analytics student in the Wisconsin School of Business. Before that, I earned my Bachelor's degree from South China University of Technology, majoring in Finace with a double major of Computer Science. 
+Hello, I'm Yunfan Zhang,a master of science in business analytics candidate in the [Wisconsin School of Business](https://business.wisc.edu/?gclid=CjwKCAjwxOCRBhA8EiwA0X8hixKiBaBCiZH7qthSOX7NppOQQKbRlR63XC6z51HtbM5JmQYbTac_kxoCms4QAvD_BwE). 
+
+Previously, I received my Bachelor's degree from South China University of Technology, majoring in Finace with a double major of Computer Science. I have also spent time working at [CICC](https://en.cicc.com/), [Frost& Sullivan](https://www.frost.com/) and [r2games](https://www.r2games.com/).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
