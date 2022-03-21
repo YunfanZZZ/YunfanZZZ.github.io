@@ -1,6 +1,5 @@
-## Hello
-
 You can use the [editor on GitHub](https://github.com/YunfanZZZ/YunfanZZZ.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, I'm a master of science in business analytics student in the Wisconsin School of Business. Before that, I earned my Bachelor's degree from South China University of Technology, majoring in Finace with a double major of Computer Science. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
