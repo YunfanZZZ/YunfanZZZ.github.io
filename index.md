@@ -5,12 +5,18 @@ Previously, I received my [artificial intelligence professional certificate](htt
 ### Internship
 
 01/22-Present: Worked for [China Merchant Securities(CMS)](http://www.cmschina.com.hk/en/CorpFin/default) as an analyst intern
+
 09/21-12/21: Worked for [China International Capital Corporation(CICC)](https://en.cicc.com/) as an analyst intern
+
 06/21-08/21: Worked for [Frost& Sullivan](https://www.frost.com/) as an assistant intern
+
 07/20-05/21: Worked for [Reality Squared Games](https://www.r2games.com/) as a data analyst
+
 03/20-07/20: Worked for [CITIC Securities](http://www.cs.ecitic.com/newsite/en/) as a personal investment advisor
+
 08/19-11/19: Worked for [Tax Bureau](http://www.chinatax.gov.cn/eng/home.html) as a data analyst intern
 
+### Project
 
 ```markdown
 Syntax highlighted code block
