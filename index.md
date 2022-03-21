@@ -1,12 +1,16 @@
 Hello, I'm Yunfan Zhang,a master of science in business analytics candidate in the [Wisconsin School of Business](https://business.wisc.edu/?gclid=CjwKCAjwxOCRBhA8EiwA0X8hixKiBaBCiZH7qthSOX7NppOQQKbRlR63XC6z51HtbM5JmQYbTac_kxoCms4QAvD_BwE). 
 
-Previously, I received my Bachelor's degree from South China University of Technology, majoring in Finace with a double major of Computer Science. I have also spent time working at [CICC](https://en.cicc.com/), [Frost& Sullivan](https://www.frost.com/) and [r2games](https://www.r2games.com/).
+Previously, I received my [artificial intelligence professional certificate](https://online.stanford.edu/programs/artificial-intelligence-professional-program) from Stanford School of Engineering online. And I earned my I received my Bachelor's degree from South China University of Technology, majoring in Finace with a double major of Computer Science. I have also spent time working at [CICC](https://en.cicc.com/), [Frost& Sullivan](https://www.frost.com/) and [r2games](https://www.r2games.com/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Internship
 
-### Markdown
+01/22-Present: Worked for [China Merchant Securities(CMS)](http://www.cmschina.com.hk/en/CorpFin/default) as an analyst intern
+09/21-12/21: Worked for [China International Capital Corporation(CICC)](https://en.cicc.com/) as an analyst intern
+06/21-08/21: Worked for [Frost& Sullivan](https://www.frost.com/) as an assistant intern
+07/20-05/21: Worked for [Reality Squared Games](https://www.r2games.com/) as a data analyst
+03/20-07/20: Worked for [CITIC Securities](http://www.cs.ecitic.com/newsite/en/) as a personal investment advisor
+08/19-11/19: Worked for [Tax Bureau](http://www.chinatax.gov.cn/eng/home.html) as a data analyst intern
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
