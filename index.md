@@ -62,5 +62,5 @@ I built dashboard using the COVID-19 data in the USA and the world with Tableau 
 I built time-series ARIMA model to understand and analyze seasonality pattern and trends of the sales of a large internet company in Python.
 
 ## Others about me
-I'm a video gamer for more than 13 years. Besides a player, I'm also a amateur game designer and content maker. I'm also interested in Chinese history and
+I'm a video gamer for more than 13 years. Besides a player, I'm also an amateur game designer and content maker. I'm also interested in Chinese history and
 ancient poetry. For sports, I'm a taekwondo black belt and interested in roller skating and swimming.
